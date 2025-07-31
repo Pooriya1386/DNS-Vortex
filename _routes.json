@@ -1,0 +1,6 @@
+[
+  {
+    "route": "/dns-query",
+    "script": "index.js"
+  }
+]
